@@ -1,0 +1,10 @@
+.main
+{
+  width: 100px;
+  height: 100vh;
+  background: rgb(207, 218, 221);
+  display: flex;
+  flex-direction: row;
+  
+  
+}
